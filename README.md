@@ -1,6 +1,6 @@
 
 ---
-# <span style="color:Purple">Project 3 :  Web APIs & NLP</span> <img src="./resources/reddit_logo.png" width="110" height="110" />
+# <span style="color:Purple">Web APIs & NLP</span> 
 ---
 ## <span style="color:Orange">Subreddit Submission Pulls</span>      
 
