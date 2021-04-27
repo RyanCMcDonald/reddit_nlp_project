@@ -16,8 +16,8 @@ Aprils Fools' Day 2021: In the spirt of tomfoolery, another year has come and we
        * If a model cannot accurately predict which posts come from which subreddit, it's assumed the two subreddits are too closely related, and thus, unnecessary. 
        * If the model outperforms the baseline model or our determined performance metric, there is enough unique substance in each subreddit for them both to remain.
         
-###### $_{1}$https://www.oberlo.com/blog/reddit-statistics
-###### $_{1}$https://en.wikipedia.org/wiki/Reddit
+###### https://www.oberlo.com/blog/reddit-statistics
+###### https://en.wikipedia.org/wiki/Reddit
 
 
  ---
@@ -88,8 +88,6 @@ Dataset contains 2 columns.  One describing the r/subreddit (object/class) of or
       ![another pic](./resources/follow_up_performance.PNG) 
 
 
- 
--
 
 3.  Additional supporting analysis is provided in the code notebook for review, as well as additional insights. Indepth and detailed processing and review are featured throughout the code notebook within markdown and code- formatted lines. 
 
